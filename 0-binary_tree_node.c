@@ -3,6 +3,7 @@
  * binary_tree_node - create
  * binary_tree_node: node
  * @value: value
+ * @parent: apointer
  * Return: new node
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
