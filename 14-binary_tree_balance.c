@@ -2,7 +2,7 @@
 /**
  * binary_tree_balance - Measures
  * @tree: A pointer
- * Return: 0 
+ * * Return: 0
  */
 int binary_tree_balance(const binary_tree_t *tree)
 {
